@@ -27,6 +27,6 @@ USAGE:
 -W Substitution route is weighted. [T/F] T if default. F if Nei-Gojobori method.
 -T Eliminate route of ternilal codon when creating the table of synonimous sites.
      [T/F]. F if default. T if Nei-Gojobori method.
--C Codon table file. Currently '/db3/uhmin/constants/universal.codon'.
--S Substitution table file. Currently '/db3/uhmin/constants/MiyataYasunagaTable_real.csv'.
+-C Codon table file. Currently 'universal.codon'.
+-S Substitution table file. Currently 'MiyataYasunagaTable_real.csv'.
 -D show debug information [T/F] T if default.
